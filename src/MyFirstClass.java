@@ -17,6 +17,8 @@ public class MyFirstClass {
         System.out.println("Ende");
 
         // Programm Ende
+
+        String a = "hallo";
     }
 }
 
