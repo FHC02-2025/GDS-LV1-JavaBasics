@@ -37,6 +37,9 @@ public class VariablesDemo {
         // Typumwandlung nicht möglich
         //String j = "Hallo";
 
+        long l = 100;
+        int k = 8;
+        l = k;
 
 
     }
