@@ -46,6 +46,16 @@ public class CalculatorExcercise {
     }
 
     public static double divide(int a, int b) {
+//        if (b != 0) {
+//            return a / (b * 1.0);
+//        } else {
+//            return 0;
+//        }
+
+        if (b == 0) {
+            return 0;
+        }
+
         return a / (b * 1.0);
     }
 
